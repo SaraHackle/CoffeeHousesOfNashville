@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.shop{
+    border: dotted;
+    flex-basis: 30%;
+    margin: 1px;
+    text-align: center;
+}
